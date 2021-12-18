@@ -1,1 +1,1 @@
-console.log("DAY 17")
+console.log("DAY 18")
